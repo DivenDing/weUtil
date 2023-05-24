@@ -1,0 +1,21 @@
+{
+    "name": "diven/we-util",
+    "description": "util packages",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Diven\\WeUtil\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "magicdiven",
+            "email": "magicdiven@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0"
+    }
+}
